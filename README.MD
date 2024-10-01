@@ -1,6 +1,6 @@
 # PRÁCTICA LISTAS ENLAZADAS
 
-### Sistema de Gestión de Reservas de Salas de Conferencias
+## Sistema de Gestión de Reservas de Salas de Conferencias
 
 Eres responsable de desarrollar un sistema de gestión de reservas para las salas de 
 conferencias de un edificio corporativo. El sistema debe permitir a los usuarios 
